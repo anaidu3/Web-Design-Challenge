@@ -5,7 +5,7 @@
 
 Data is more powerful when we share it with others! Let's use what we've learned about HTML and CSS to create a dashboard featuring the analysis that we've done, as captured in the following image:
 
-![landing page](../Web-Design-Challenge/Instructions/readme_landing_image.PNG)
+https://github.com/anaidu3/Web-Design-Challenge/blob/main/Instructions/readme_landing_image.PNG
 
 ## Before You Begin
 
